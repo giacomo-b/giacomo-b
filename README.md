@@ -11,16 +11,21 @@
     <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=Rust&logoColor=white&color=b7410e"
          alt="Rust">
   </a>
+  <a href="https://github.com/giacomo-b">
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=yellow"
+         alt="Linux">
+  </a>
+  <a href="https://github.com/giacomo-b">
+    <img src="https://img.shields.io/badge/BTW-Arch-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=blue"
+         alt="Arch">
+  </a>
 </p>
 
 ```cpp
-
 std::vector<std::string> favorites  = {"C++", "Python", "Rust"},
                          web        = {"HTML", "CSS", "Javascript", "React", "Node"},
-                         other      = {"Java", "Bash", "C", "MATLAB"},
-                         devops     = {"Git", "Docker"},
+                         other      = {"Java", "Bash", "C", "MATLAB", "Git", "Docker"},
                          learning   = {"Kotlin"};
-};
 ```
 
 <p align="center">
@@ -43,15 +48,3 @@ std::vector<std::string> favorites  = {"C++", "Python", "Rust"},
          alt="Stats">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/giacomo-b">
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=yellow"
-         alt="Linux">
-  </a>
-  <a href="https://github.com/giacomo-b">
-    <img src="https://img.shields.io/badge/BTW-Arch-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=blue"
-         alt="Arch">
-  </a>
-</p>
-
