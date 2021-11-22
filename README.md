@@ -29,13 +29,6 @@ std::vector<std::string> favorites  = {"C++", "Python", "Rust"},
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giacomobonaccorsi">
-    <img src="https://img.shields.io/badge/-giacomobonaccorsi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giacomobonaccorsi"
-         alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/giacomo-b">
     <img src="https://img.shields.io/github/followers/giacomo-b?label=follow&logo=github&style=for-the-badge"
          alt="GitHub">
