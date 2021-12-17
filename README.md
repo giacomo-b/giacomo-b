@@ -21,13 +21,6 @@
   </a>
 </p>
 
-```cpp
-std::vector<std::string> favorites  = {"C++", "Python", "Rust"},
-                         web        = {"HTML", "CSS", "Javascript", "React", "Node"},
-                         other      = {"Java", "Bash", "C", "MATLAB", "Git", "Docker"},
-                         learning   = {"Kotlin"};
-```
-
 <p align="center">
   <a href="https://github.com/giacomo-b">
     <img src="https://img.shields.io/github/followers/giacomo-b?label=follow&logo=github&style=for-the-badge"
