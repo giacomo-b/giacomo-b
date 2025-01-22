@@ -27,10 +27,3 @@
          alt="GitHub">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/giacomo-b">
-    <img src="https://github-readme-stats.vercel.app/api?username=giacomo-b&show_icons=true&count_private=true&theme=vue-dark"
-         alt="Stats">
-  </a>
-</p>
